@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Bryan Harris, Joe Leahy",
+            "title": "Lula vows partnership with China to 'balance world geopolitics' - Financial Times",
+            "description": "Brazil’s president uses three-day visit to strengthen ties with Beijing and chart path towards more multipolar global order",
+            "url": "https://www.ft.com/content/766ed3aa-3f51-4035-8573-43254c9756d5",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F351cbac9-3181-4620-ae54-d2360a8fcbdd.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-04-15T07:35:10Z",
+            "content": "Brazilian president Luiz Inácio Lula da Silva has said he wants to work with Beijing to balance world geopolitics as he wrapped up a three-day visit to China aimed at deepening relations between the … [+4626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Mallika Soni",
+            "title": "Prince Harry's only role at King Charles coronation revealed - Hindustan Times",
+            "description": "Prince Harry: Prince Harry will be seated along with other non-working members of the royal family. | World News",
+            "url": "https://www.hindustantimes.com/world-news/prince-harry-news-royal-family-news-prince-harry-s-only-role-at-king-charles-coronation-revealed-101681533757820.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/15/1600x900/Britain-Tabloid-Lawsuit-32_1681189728254_1681189728254_1681534424389_1681534424389.jpg",
+            "publishedAt": "2023-04-15T05:03:58Z",
+            "content": "Prince Harry's role at his father King Charles' coronation next month has been revealed as he set to attend the historic ceremony alone, without his wife Meghan Markle. Prince Harry will play a minim… [+1630 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Jupiter's Icy Enigmas: ESA's Juice Launches on a Cosmic Treasure Hunt - SciTechDaily",
+            "description": "ESA’s Jupiter Icy Moons Explorer (Juice) lifted off on an Ariane 5 rocket from Europe’s Spaceport in French Guiana at 9:04 a.m. EDT on April 14. The successful launch marks the beginning of an ambitious voyage to uncover the secrets of the ocean worlds around…",
+            "url": "https://scitechdaily.com/jupiters-icy-enigmas-esas-juice-launches-on-a-cosmic-treasure-hunt/",
+            "urlToImage": "https://scitechdaily.com/images/ESA-Juice-Jupiter-Icy-Moons-Explorer-scaled.jpg",
+            "publishedAt": "2023-04-15T01:43:19Z",
+            "content": "ByEuropean Space Agency (ESA)April 14, 2023\r\nESAs latest interplanetary mission, Juice, lifted off on anAriane 5 rocketfromEuropes Spaceportin French 09:14 local time/14:14 CEST on April 14 2023 to b… [+21009 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "William Harwood",
+            "title": "FAA clears the way for maiden flight of SpaceX Starship rocket - CBS News",
+            "description": "With an FAA license in hand, SpaceX says the maiden flight of the world's most powerful rocket could come as early as Monday.",
+            "url": "https://www.cbsnews.com/news/faa-approvals-maiden-flight-spacex-super-heavy-starship-rocket/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/02ac4ddd-8ba4-4607-9e52-bc7f0bb3d9cb/thumbnail/1200x630/f90d6a94198c62a8309b75e82ca36da0/041423-starship-padview.jpg",
+            "publishedAt": "2023-04-15T00:07:00Z",
+            "content": "The Federal Aviation Administration on Friday granted a license to SpaceX that clears the California rocket builder to launch its gargantuan methane-powered Super Heavy/Starship rocket on its first u… [+6369 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Tech consultant charged in killing of Cash App founder Lee - WGN News",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/watch?v=oDSBDcpH0wc",
+            "urlToImage": null,
+            "publishedAt": "2023-04-14T23:50:54Z",
+            "content": null
+        }
+    ]
+}
